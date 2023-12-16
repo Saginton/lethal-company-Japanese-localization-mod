@@ -1,0 +1,5 @@
+﻿v40=V40
+Public=公共
+v45=V45
+Welcome! Version 45 is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!=いらっしゃいませ！\nバージョン45は現在公開されています。\n他の人は、このバージョンであなたとプレイするためにゲームを更新する必要があります。\n幸運を！
+Version 45 is out!=バージョン45がリリースされました！

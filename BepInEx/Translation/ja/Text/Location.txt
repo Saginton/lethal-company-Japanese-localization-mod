@@ -1,0 +1,35 @@
+﻿# 地點資訊
+
+Safe=安全
+Arid. Thick haze, worsened by industrial artifacts.=乾燥している。厚い霞が産業の遺物によって悪化している
+A competitive ecosystem supports aggressive lifeforms.=競争的な生態系が攻撃的な生命体を支えている。
+Abandoned=放置された
+Diverse=多様
+Eclipsed=日食
+Flooded=洪水
+Foggy=霧
+No land masses. Continual storms.=陸地がない。絶え間ない嵐。
+Expansive. Constant rain.=広大。絶え間ない雨。
+Ecosystem supports territorial behaviour.=生態系が領土的な行動を支えている。
+Dominated by a few species.=数種の生物に支配されている。
+Rainy=雨
+Where the Company resides.=会社が存在する場所。
+Oxygen critically low!=酸素が致命的に低い！
+Unknown=未知
+Stormy=嵐
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+31 March=31 March
+41 Experimentation=41 Experimentation
+56 Vow=56 Vow
+61 March=61 March
+71 Gordion=71 Gordion
+85 Rend=85 Rend
+Main entrance=メインエントランス
+Jagged and weathered terrain. =ギザギザで風化した地形。
+Jagged and weathered terrain.=ギザギザで風化した地形。
+HAZARD LEVEL:=ハザードレベル：
+Humid. Rough terrain. Teeming with plant-life.=湿気が高い。地形は荒れている。植物が生い茂っている。
+Home base=本拠地
+Unlikely for complex life to exist=複雑な生命が存在することは考えにくい
+Frozen, rocky. Its planet orbits a white dwarf star.=凍った、岩の多い。その惑星は白色矮星の軌道にある。

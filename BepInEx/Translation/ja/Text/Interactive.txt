@@ -1,0 +1,66 @@
+﻿# Interactive
+
+Sprint: [Shift]=走る：[Shift]
+Open: [E]=開く：[E]
+Turn on/off : [E]=オン/オフ切り替え：[E]
+Switch camera : [E]=カメラ切替：[E]
+Use key : [LMB]=キーを使う：[LMB]
+Use airhorn : [LMB]=エアホーンを使う：[LMB]
+Quit terminal : [TAB]=ターミナルを閉じる：[TAB]
+Scan : [RMB]=スキャン：[RMB]
+Send voice : [LMB]=声を送る：[LMB]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=確認：[B]   |   回転：[R]   |   保存：[X]
+Power button : [Q]=電源ボタン：[Q]
+Open : [E]=開く：[E]
+Open door : [E]=ドアを開ける：[E]
+[Nothing to store]=[保存するものなし]
+[Wait for ship to land]=[船の着陸を待つ]
+Start game : [E]=ゲームを始める：[E]
+Start ship : [E]=船を始動する：[E]
+Store item : [E]=アイテムを保存する：[E]
+Swing sign : [LMB]=看板を揺らす：[LMB]
+Switch lights : [E]=ライトの切替：[E]
+Toggle light : [LMB]=ライトの切替： [LMB]
+Walk : [W/A/S/D]=歩く : [W/A/S/D]
+Turn page : [Q/E]=ページをめくる: [Q/E]
+Use key : [LMB]=キーを使う : [LMB]
+Use ladder : [E]=はしごを使う ：[E]
+Land ship : [E]=船を着陸させる：[E]
+Climb : [E]=登る：[E]
+Let go : [E]=手を離す：[E]
+Enter : [E]=入る：[E]
+Enter: [E]=入る：[E]
+Exit : [E]=出る：[E]
+Exit: [E]=出る：[E]
+[Hands full]=[手がいっぱい]
+[ Not holding items ]=[アイテムを持っていない]
+Ring bell: [E]=ベルを鳴らす：[E]
+Disable speaker: [E]=スピーカーを無効にする：[E]
+Grab : [E]=つかむ：[E]
+Inspect: [Z]=調べる：[Z]
+Close door : [E]=ドアを閉じる：[E]
+Sell item : [E]=アイテムを売る：[E]
+Use door : [E]=ドアを使う：[E]
+Charge item : [E]=アイテムを充電する：[E]
+Get log : [E]=ログを取得する：[E]
+Lift glass : [E]=ガラスを持ち上げる：[E]
+Use remote : [LMB]=リモコンを使う：[LMB]
+[Cannot pull valve]=[バルブを引くことができない]
+Flip switch: [E]=スイッチを切り替える：[E]
+Use horn : [LMB]=ホーンを使う：[LMB]
+Grab: [E]=つかむ：[E]
+Open hatch : [E]=ハッチを開ける：[E]
+Use hairdryer : [LMB]=ヘアドライヤーを使う：[LMB]
+Take TZP : [LMB]=TZPを取る：[LMB]
+Swing shovel : [LMB]=シャベルを振る：[LMB]
+Access terminal : [E]=ターミナルにアクセスする：[E]
+
+# 暫時存檔區域
+
+
+
+
+
+sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2)：$3
+
+# 自動翻譯分類

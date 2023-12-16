@@ -1,0 +1,22 @@
+﻿# Creatures
+Manticoil=マンティコイル
+Roaming locusts=遊牧するイナゴ
+Hoarding bug=貯蔵する虫
+Spore lizard=胞子トカゲ
+Hygrodere=ハイグロデレ
+Bunker spider=バンカースパイダー
+Circuit bees=回路蜂
+Forest keeper=森の守護者
+Earth leviathan=地球のリヴァイアサン
+Baboon hawk=ヒヒタカ
+Snare flea=罠ノミ
+Bracken=ブレケン
+Coil-head=コイルーヘッド
+Eyeless dog=目のない犬
+Jester=ジェスター
+Thumper=サンパー
+Ghost girl=幽霊少女
+Jeb=ジェブ
+Landmine=地雷
+Turret=タレット
+Forest Giant=森の巨人
